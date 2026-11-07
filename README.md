@@ -12,11 +12,10 @@ I spend a lot of time working with existing systems: understanding what they do,
 
 I like straightforward solutions that a team can still understand and maintain a few years later.
 
-### Open source & side projects
+### Open source
 
+- **[OpenID Connect for Laravel](https://github.com/jeremy379/laravel-openid-connect)** — my main open-source project. Adds OpenID Connect support to Laravel Passport, including ID tokens and OIDC scopes.
 - **[Laravel Storage CLI](https://github.com/jeremy379/laravel-storage-cli)** — inspect filesystem disks and files from Artisan, without opening Tinker.
-- **[OpenID Connect for Laravel](https://github.com/jeremy379/laravel-openid-connect)** — OpenID Connect support for Laravel Passport.
-- **[Devboard](https://github.com/jeremy379/devboard)** — a small local dashboard for GitHub pull requests and Jira tickets.
 
 ### Elsewhere
 
