@@ -1,18 +1,27 @@
-### Hello 👋
+# Hi, I'm Jérémy
 
-## Links
+I'm a **senior PHP/Laravel backend engineer** based in Belgium. For over a decade, I've worked on SaaS and fintech platforms where reliability, maintainability, and the details of production really matter.
 
-[Dillenbourg.be](https://dillenbourg.be)
+I spend a lot of time working with existing systems: understanding what they do, improving them safely, and helping teams keep delivering without rewriting everything.
 
-[Medium](https://medium.com/@dillenbourg.jeremy)
+### What I work on
 
-[Twitter](https://twitter.com/jeremy379)
+- **PHP & Laravel:** backend development, legacy modernization, architecture, and performance.
+- **Integrations & operations:** APIs, payments, queues, databases, CI/CD, and production troubleshooting.
+- **Code quality:** automated testing, code reviews, and pragmatic technical mentoring.
 
-[Gitlab](https://gitlab.com/jeremy379)
+I like straightforward solutions that a team can still understand and maintain a few years later.
 
-## Preview
+### Open source & side projects
 
-<img width="1388" alt="Screenshot 2023-02-23 at 19 52 31" src="https://user-images.githubusercontent.com/5048337/221002954-4dc050e4-fd5f-41a8-a5d9-86ccb3022d19.png">
+- **[Laravel Storage CLI](https://github.com/jeremy379/laravel-storage-cli)** — inspect filesystem disks and files from Artisan, without opening Tinker.
+- **[OpenID Connect for Laravel](https://github.com/jeremy379/laravel-openid-connect)** — OpenID Connect support for Laravel Passport.
+- **[Devboard](https://github.com/jeremy379/devboard)** — a small local dashboard for GitHub pull requests and Jira tickets.
 
+### Elsewhere
 
+- **[dillenbourg.be](https://dillenbourg.be/)** — my work on PHP/Laravel, legacy systems, and long-term engineering projects.
+- **[Casper Development](https://casper-development.be/)** — smaller, focused development missions, integrations, and automation.
+- **[LinkedIn](https://www.linkedin.com/in/dillenbourgjeremy/)** · **[Medium](https://medium.com/@dillenbourg.jeremy)**
 
+Based near Namur, Belgium. Working in English and French.
