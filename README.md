@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/5048337?v=4" alt="Jérémy Dillenbourg" width="160" align="right" />
+
 # Hi, I'm Jérémy
 
 I'm a **senior PHP/Laravel backend engineer** based in Belgium. For over a decade, I've worked on SaaS and fintech platforms where reliability, maintainability, and the details of production really matter.
